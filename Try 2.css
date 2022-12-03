@@ -1,0 +1,31 @@
+ 
+
+div{
+	background: #323232;
+	color: white;
+}
+
+ .header-nav{
+ 	display: flex;
+ 	justify-content: space-between;
+ 	width: ;
+ }
+
+ .body{
+ 	background-color: white;
+ 	text-decoration: none;
+
+
+ }
+
+ .header-nav{
+ 	padding: 20px 0;
+ 	color: ;
+ 	border: 2px black solid;
+ 	border-radius: 4px;
+ }
+
+ .header-form input [type="text"]{
+ 	border: 2px solid #85D082;
+ 	background-color: rgb(2, 3, 5);
+ }
